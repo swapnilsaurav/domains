@@ -1,0 +1,802 @@
+Employee_ID,Exit_Date,Voluntary_Flag,Primary_Exit_Reason,Exit_Interview_Satisfaction_1_5,Manager_Relationship_1_5,Would_Rejoin,Regrettable_Attrition,Destination
+E00005,2024-09-13,No,Contract End,3,5,No,Yes,Competitor
+E00012,2020-01-01,Yes,Manager,2,3,Yes,No,Unknown
+E00014,2021-09-21,Yes,Manager,5,4,Yes,No,Competitor
+E00019,2023-04-12,Yes,Relocation,5,1,No,Yes,Competitor
+E00023,2019-10-11,No,Policy Violation,5,5,Yes,No,Unknown
+E00026,2025-04-26,Yes,Manager,5,3,No,Yes,Career Break
+E00029,2024-04-22,No,Contract End,3,4,Yes,Yes,Higher Education
+E00030,2026-07-04,Yes,Relocation,1,5,Yes,No,Career Break
+E00039,2024-10-12,Yes,Manager,5,5,Yes,Yes,Career Break
+E00042,2026-04-23,Yes,Relocation,4,1,No,Yes,Career Break
+E00054,2025-04-22,Yes,Relocation,1,3,Yes,Yes,Higher Education
+E00062,2022-10-29,Yes,Career Growth,4,2,Yes,No,Career Break
+E00065,2019-11-30,Yes,Work-Life Balance,1,5,No,Yes,Competitor
+E00068,2025-05-22,Yes,Relocation,3,1,No,Yes,Career Break
+E00073,2018-08-12,Yes,Relocation,2,1,No,No,Competitor
+E00082,2024-11-10,No,Policy Violation,3,1,No,Yes,Unknown
+E00097,2020-04-29,Yes,Work-Life Balance,4,5,Yes,No,Competitor
+E00098,2026-03-03,No,Policy Violation,3,3,Yes,Yes,Startup
+E00102,2023-01-23,Yes,Manager,5,2,No,Yes,Startup
+E00107,2025-08-28,Yes,Career Growth,1,4,No,Yes,Competitor
+E00108,2020-10-07,Yes,Relocation,5,2,No,Yes,Career Break
+E00114,2020-10-20,Yes,Work-Life Balance,2,4,Yes,Yes,Unknown
+E00115,2022-03-02,Yes,Career Growth,3,5,No,No,Unknown
+E00126,2025-02-26,No,Contract End,3,1,Yes,No,Higher Education
+E00129,2019-03-09,No,Restructuring,4,1,No,Yes,Higher Education
+E00130,2022-12-23,Yes,Relocation,2,3,Yes,Yes,Competitor
+E00133,2024-03-18,Yes,Work-Life Balance,3,3,No,No,Career Break
+E00141,2023-06-28,Yes,Work-Life Balance,2,1,Yes,Yes,Startup
+E00143,2023-02-16,Yes,Manager,2,4,No,Yes,Unknown
+E00154,2018-12-29,Yes,Work-Life Balance,2,2,No,Yes,Higher Education
+E00158,2025-09-17,No,Performance,5,4,Yes,Yes,Startup
+E00161,2024-10-27,Yes,Compensation,1,4,No,No,Higher Education
+E00165,2023-12-16,Yes,Work-Life Balance,1,4,Yes,Yes,Competitor
+E00166,2017-09-20,No,Performance,4,4,No,No,Higher Education
+E00170,2020-01-21,Yes,Manager,4,2,Yes,No,Competitor
+E00176,2026-06-22,Yes,Relocation,5,3,Yes,No,Higher Education
+E00177,2025-04-08,No,Restructuring,4,3,Yes,No,Startup
+E00184,2021-05-18,Yes,Relocation,4,5,No,No,Competitor
+E00186,2024-07-02,Yes,Manager,1,4,No,No,Startup
+E00207,2026-04-20,No,Restructuring,4,5,Yes,No,Startup
+E00211,2023-06-25,Yes,Compensation,2,3,Yes,No,Competitor
+E00220,2019-09-09,Yes,Work-Life Balance,1,5,Yes,No,Unknown
+E00222,2020-12-30,No,Policy Violation,1,3,Yes,No,Career Break
+E00227,2019-12-29,No,Contract End,3,1,No,No,Competitor
+E00228,2020-11-28,No,Policy Violation,4,4,No,No,Career Break
+E00233,2026-07-25,Yes,Compensation,2,2,No,Yes,Higher Education
+E00239,2019-01-27,Yes,Better Opportunity,5,5,No,No,Career Break
+E00252,2026-01-08,Yes,Work-Life Balance,4,3,No,No,Unknown
+E00258,2025-06-03,Yes,Better Opportunity,3,2,Yes,Yes,Competitor
+E00280,2025-01-17,Yes,Compensation,4,5,No,No,Unknown
+E00282,2025-08-12,Yes,Career Growth,4,5,Yes,Yes,Startup
+E00287,2021-03-29,Yes,Relocation,4,2,Yes,No,Unknown
+E00288,2018-04-24,Yes,Compensation,3,4,No,No,Unknown
+E00299,2023-11-06,Yes,Work-Life Balance,3,2,No,No,Career Break
+E00302,2022-05-06,Yes,Career Growth,1,2,No,Yes,Career Break
+E00324,2024-10-01,Yes,Manager,2,1,Yes,Yes,Startup
+E00328,2024-10-13,Yes,Relocation,4,2,No,Yes,Higher Education
+E00331,2026-05-11,Yes,Career Growth,3,3,No,Yes,Competitor
+E00332,2025-06-16,No,Policy Violation,5,5,Yes,Yes,Unknown
+E00336,2026-02-23,Yes,Relocation,5,3,Yes,No,Competitor
+E00337,2025-06-14,No,Restructuring,2,3,Yes,Yes,Career Break
+E00342,2023-01-16,Yes,Compensation,1,2,Yes,No,Career Break
+E00344,2020-07-11,Yes,Career Growth,5,5,Yes,Yes,Startup
+E00355,2024-02-27,Yes,Relocation,3,5,No,No,Competitor
+E00361,2026-04-19,Yes,Better Opportunity,2,3,Yes,No,Unknown
+E00363,2026-08-22,No,Restructuring,3,4,No,Yes,Higher Education
+E00379,2020-03-04,Yes,Career Growth,4,5,Yes,No,Startup
+E00383,2022-11-30,Yes,Better Opportunity,2,3,No,No,Competitor
+E00384,2025-12-26,Yes,Compensation,2,5,Yes,No,Startup
+E00390,2025-08-18,Yes,Better Opportunity,5,4,No,No,Career Break
+E00403,2020-01-22,Yes,Better Opportunity,2,4,No,Yes,Startup
+E00429,2025-05-06,Yes,Career Growth,3,4,No,Yes,Unknown
+E00433,2024-04-15,Yes,Relocation,3,3,No,Yes,Competitor
+E00440,2026-08-24,No,Contract End,1,5,No,No,Higher Education
+E00447,2025-11-11,Yes,Relocation,1,3,No,No,Competitor
+E00449,2022-05-12,Yes,Work-Life Balance,1,3,Yes,Yes,Competitor
+E00450,2025-12-22,No,Policy Violation,2,5,Yes,No,Unknown
+E00456,2022-06-16,Yes,Compensation,4,1,No,Yes,Career Break
+E00464,2025-08-31,No,Restructuring,1,1,No,Yes,Competitor
+E00466,2022-03-13,Yes,Relocation,4,3,No,No,Unknown
+E00467,2025-07-20,Yes,Relocation,3,1,Yes,No,Competitor
+E00472,2026-01-29,Yes,Work-Life Balance,3,2,Yes,Yes,Unknown
+E00473,2025-03-04,Yes,Better Opportunity,1,5,No,Yes,Unknown
+E00475,2020-04-27,Yes,Better Opportunity,1,5,Yes,Yes,Career Break
+E00477,2023-11-18,Yes,Compensation,3,1,Yes,No,Unknown
+E00481,2025-04-08,Yes,Relocation,2,4,Yes,No,Competitor
+E00489,2019-05-12,Yes,Career Growth,1,5,Yes,Yes,Competitor
+E00494,2020-03-04,Yes,Manager,3,5,Yes,Yes,Higher Education
+E00498,2022-05-20,Yes,Career Growth,5,4,No,Yes,Higher Education
+E00509,2025-07-07,Yes,Manager,5,5,Yes,No,Career Break
+E00510,2025-02-07,Yes,Work-Life Balance,4,2,Yes,No,Higher Education
+E00534,2021-09-17,Yes,Work-Life Balance,3,3,No,No,Unknown
+E00538,2025-03-11,Yes,Manager,1,1,Yes,No,Higher Education
+E00546,2023-08-04,Yes,Manager,4,2,Yes,Yes,Higher Education
+E00547,2019-11-01,No,Performance,3,5,No,No,Unknown
+E00548,2022-02-01,Yes,Compensation,5,4,No,No,Competitor
+E00552,2023-12-06,Yes,Career Growth,2,5,Yes,No,Startup
+E00555,2026-01-02,Yes,Work-Life Balance,2,5,No,No,Competitor
+E00567,2024-11-20,Yes,Manager,3,1,No,No,Unknown
+E00575,2025-07-06,Yes,Better Opportunity,1,2,No,Yes,Career Break
+E00578,2026-04-27,Yes,Better Opportunity,1,1,Yes,Yes,Competitor
+E00581,2026-05-23,Yes,Relocation,2,5,Yes,Yes,Competitor
+E00615,2026-08-17,Yes,Compensation,5,2,No,Yes,Higher Education
+E00620,2020-12-07,No,Policy Violation,3,4,No,No,Competitor
+E00621,2026-02-14,No,Contract End,5,4,No,No,Competitor
+E00632,2019-11-30,Yes,Better Opportunity,5,1,No,Yes,Career Break
+E00634,2020-01-16,Yes,Career Growth,4,1,No,Yes,Career Break
+E00642,2023-10-19,Yes,Manager,3,5,Yes,Yes,Startup
+E00648,2026-08-12,Yes,Career Growth,5,4,Yes,No,Unknown
+E00665,2023-07-12,No,Policy Violation,4,2,No,Yes,Higher Education
+E00672,2023-10-06,Yes,Manager,4,3,Yes,Yes,Startup
+E00697,2026-06-13,No,Restructuring,1,1,Yes,Yes,Career Break
+E00699,2025-12-11,Yes,Career Growth,4,2,Yes,Yes,Startup
+E00707,2025-12-10,Yes,Work-Life Balance,1,4,Yes,No,Startup
+E00708,2023-10-24,Yes,Work-Life Balance,2,2,Yes,No,Competitor
+E00715,2023-07-18,Yes,Compensation,5,5,Yes,No,Higher Education
+E00718,2023-06-25,Yes,Career Growth,4,2,Yes,Yes,Unknown
+E00725,2023-01-23,No,Performance,4,4,No,Yes,Higher Education
+E00729,2025-10-23,Yes,Work-Life Balance,3,2,No,Yes,Higher Education
+E00736,2026-07-07,Yes,Career Growth,5,5,No,No,Startup
+E00743,2022-08-26,Yes,Relocation,3,3,No,No,Startup
+E00762,2025-02-10,No,Contract End,2,5,Yes,No,Career Break
+E00780,2022-02-18,Yes,Work-Life Balance,3,1,Yes,Yes,Competitor
+E00789,2026-06-08,No,Performance,2,4,No,Yes,Career Break
+E00791,2025-01-22,Yes,Work-Life Balance,2,1,Yes,Yes,Career Break
+E00804,2018-05-29,Yes,Compensation,5,3,No,Yes,Higher Education
+E00812,2026-07-02,No,Contract End,5,4,Yes,Yes,Competitor
+E00818,2023-11-03,Yes,Work-Life Balance,4,2,Yes,Yes,Higher Education
+E00821,2020-11-03,Yes,Better Opportunity,1,1,No,Yes,Career Break
+E00822,2026-07-30,Yes,Manager,3,5,No,Yes,Competitor
+E00832,2026-03-10,Yes,Career Growth,5,5,No,Yes,Higher Education
+E00839,2018-04-01,Yes,Manager,5,3,Yes,Yes,Competitor
+E00850,2022-05-11,No,Policy Violation,2,4,Yes,No,Career Break
+E00851,2024-12-01,Yes,Better Opportunity,2,4,No,No,Competitor
+E00855,2024-06-04,Yes,Better Opportunity,4,2,Yes,No,Competitor
+E00856,2026-04-29,No,Performance,5,2,No,Yes,Unknown
+E00860,2025-12-18,No,Contract End,2,1,No,No,Startup
+E00865,2022-09-07,Yes,Compensation,4,1,Yes,No,Career Break
+E00869,2018-10-19,Yes,Career Growth,1,3,Yes,Yes,Career Break
+E00874,2023-03-16,No,Contract End,2,3,Yes,Yes,Startup
+E00889,2022-08-31,Yes,Manager,3,2,Yes,Yes,Higher Education
+E00899,2025-04-18,Yes,Better Opportunity,3,3,Yes,No,Competitor
+E00901,2026-02-18,No,Contract End,2,5,Yes,No,Unknown
+E00903,2024-10-26,No,Restructuring,1,4,No,No,Competitor
+E00908,2019-09-22,Yes,Relocation,1,1,No,No,Startup
+E00918,2021-11-19,Yes,Career Growth,1,1,No,No,Higher Education
+E00965,2025-12-26,Yes,Career Growth,3,5,Yes,Yes,Competitor
+E00978,2022-08-29,No,Policy Violation,1,2,No,Yes,Startup
+E00987,2025-05-16,Yes,Career Growth,4,1,Yes,No,Unknown
+E00989,2026-03-03,Yes,Better Opportunity,3,3,Yes,Yes,Higher Education
+E00996,2026-06-27,Yes,Better Opportunity,4,5,No,Yes,Competitor
+E01002,2026-04-12,Yes,Work-Life Balance,3,4,No,No,Competitor
+E01016,2026-08-21,No,Contract End,2,2,Yes,Yes,Competitor
+E01023,2025-06-08,Yes,Career Growth,1,4,Yes,No,Competitor
+E01031,2023-03-20,Yes,Relocation,5,4,No,No,Competitor
+E01050,2025-04-15,No,Policy Violation,4,5,No,No,Career Break
+E01065,2022-07-02,Yes,Work-Life Balance,1,3,No,Yes,Higher Education
+E01067,2023-05-14,Yes,Career Growth,1,1,Yes,Yes,Unknown
+E01068,2024-06-24,No,Policy Violation,4,1,Yes,Yes,Higher Education
+E01074,2021-07-02,Yes,Work-Life Balance,4,1,No,No,Competitor
+E01077,2022-06-17,Yes,Career Growth,1,4,No,Yes,Higher Education
+E01084,2023-10-11,No,Policy Violation,3,3,Yes,Yes,Career Break
+E01088,2026-07-23,Yes,Compensation,1,4,No,Yes,Unknown
+E01096,2024-08-31,No,Policy Violation,5,1,Yes,Yes,Startup
+E01099,2026-04-16,No,Contract End,4,3,No,No,Career Break
+E01103,2024-01-21,Yes,Manager,3,2,No,Yes,Competitor
+E01105,2026-05-13,Yes,Better Opportunity,2,1,No,No,Unknown
+E01118,2021-05-15,Yes,Manager,5,3,No,Yes,Career Break
+E01122,2023-11-27,No,Restructuring,5,1,No,No,Higher Education
+E01126,2024-01-28,No,Performance,4,5,Yes,No,Competitor
+E01127,2026-03-27,Yes,Better Opportunity,3,1,No,Yes,Startup
+E01132,2023-06-30,Yes,Work-Life Balance,3,2,No,Yes,Career Break
+E01135,2026-07-12,Yes,Relocation,1,1,Yes,No,Unknown
+E01143,2019-06-30,Yes,Relocation,2,1,No,Yes,Competitor
+E01156,2026-03-10,No,Restructuring,2,4,No,Yes,Unknown
+E01161,2025-07-07,Yes,Work-Life Balance,4,1,Yes,No,Higher Education
+E01162,2026-05-07,Yes,Better Opportunity,2,5,Yes,No,Unknown
+E01163,2023-03-06,Yes,Manager,5,1,Yes,Yes,Career Break
+E01166,2023-06-26,No,Policy Violation,3,5,No,No,Unknown
+E01171,2026-02-02,Yes,Work-Life Balance,3,3,No,No,Higher Education
+E01178,2022-02-22,No,Contract End,3,3,No,No,Career Break
+E01191,2021-02-15,No,Policy Violation,4,3,No,No,Startup
+E01201,2023-10-05,Yes,Relocation,3,5,No,Yes,Career Break
+E01203,2020-09-27,Yes,Relocation,3,5,No,Yes,Career Break
+E01204,2020-08-15,Yes,Work-Life Balance,1,5,No,Yes,Competitor
+E01209,2024-06-11,Yes,Better Opportunity,2,3,No,Yes,Unknown
+E01211,2025-03-08,No,Policy Violation,4,1,Yes,No,Competitor
+E01225,2020-05-12,Yes,Work-Life Balance,1,5,Yes,No,Startup
+E01228,2025-01-27,Yes,Relocation,2,1,No,No,Career Break
+E01240,2023-12-03,Yes,Manager,5,2,No,Yes,Higher Education
+E01242,2026-05-08,Yes,Compensation,5,4,Yes,No,Unknown
+E01248,2023-07-23,No,Policy Violation,2,4,No,No,Career Break
+E01250,2025-12-15,Yes,Compensation,4,4,Yes,Yes,Career Break
+E01255,2022-09-10,Yes,Relocation,2,2,Yes,Yes,Career Break
+E01281,2026-02-23,No,Performance,5,1,No,No,Higher Education
+E01295,2023-04-18,No,Policy Violation,1,2,No,No,Competitor
+E01306,2026-02-18,Yes,Better Opportunity,3,3,Yes,Yes,Unknown
+E01310,2020-10-25,Yes,Better Opportunity,4,3,Yes,No,Higher Education
+E01312,2025-06-18,Yes,Manager,5,5,Yes,Yes,Competitor
+E01315,2025-08-04,Yes,Better Opportunity,4,5,Yes,No,Competitor
+E01321,2023-04-22,Yes,Relocation,1,4,No,No,Unknown
+E01322,2018-07-22,No,Contract End,4,1,No,Yes,Competitor
+E01325,2025-11-16,Yes,Relocation,5,2,Yes,Yes,Competitor
+E01349,2024-01-13,Yes,Manager,2,1,No,No,Career Break
+E01350,2021-07-02,No,Performance,5,5,Yes,No,Higher Education
+E01360,2023-04-10,No,Restructuring,3,2,No,Yes,Higher Education
+E01361,2021-03-21,No,Policy Violation,2,3,No,Yes,Competitor
+E01364,2021-12-24,No,Contract End,4,5,No,No,Unknown
+E01365,2024-01-08,No,Performance,5,1,Yes,No,Unknown
+E01374,2026-08-05,Yes,Manager,3,4,No,Yes,Unknown
+E01375,2024-08-22,Yes,Career Growth,3,3,Yes,Yes,Competitor
+E01381,2026-05-26,Yes,Work-Life Balance,3,4,No,Yes,Unknown
+E01387,2023-02-23,No,Contract End,5,3,No,No,Startup
+E01391,2022-06-08,Yes,Relocation,2,1,Yes,Yes,Competitor
+E01400,2024-11-30,No,Policy Violation,5,1,No,No,Competitor
+E01412,2021-07-29,Yes,Relocation,5,1,No,No,Unknown
+E01425,2025-10-03,No,Restructuring,3,2,No,No,Higher Education
+E01430,2020-08-06,No,Policy Violation,1,1,Yes,Yes,Higher Education
+E01446,2026-05-10,Yes,Career Growth,1,1,Yes,Yes,Career Break
+E01451,2023-11-16,Yes,Compensation,5,4,Yes,Yes,Competitor
+E01454,2024-07-17,Yes,Compensation,4,4,No,No,Competitor
+E01462,2024-01-20,No,Restructuring,2,3,Yes,No,Unknown
+E01478,2022-06-06,Yes,Work-Life Balance,5,4,No,No,Career Break
+E01482,2025-07-15,Yes,Career Growth,1,4,Yes,No,Startup
+E01483,2025-10-28,Yes,Manager,3,5,No,No,Higher Education
+E01486,2022-05-28,Yes,Work-Life Balance,5,4,Yes,Yes,Startup
+E01495,2018-03-10,Yes,Work-Life Balance,5,2,No,No,Career Break
+E01501,2022-02-07,Yes,Career Growth,4,2,No,Yes,Career Break
+E01504,2023-09-22,No,Policy Violation,4,4,No,No,Higher Education
+E01509,2023-09-28,Yes,Better Opportunity,4,3,No,No,Unknown
+E01511,2019-01-06,Yes,Career Growth,4,2,Yes,No,Unknown
+E01513,2026-04-12,Yes,Manager,5,4,Yes,Yes,Unknown
+E01521,2024-03-01,Yes,Better Opportunity,4,4,No,No,Unknown
+E01522,2024-11-10,Yes,Manager,1,4,Yes,No,Unknown
+E01527,2019-11-09,No,Contract End,5,2,Yes,No,Career Break
+E01534,2022-10-13,Yes,Relocation,3,3,No,Yes,Higher Education
+E01535,2024-12-18,No,Contract End,5,1,No,No,Startup
+E01536,2025-01-06,Yes,Career Growth,2,1,No,Yes,Startup
+E01545,2024-04-04,Yes,Work-Life Balance,5,2,No,No,Career Break
+E01547,2017-09-17,Yes,Manager,2,1,No,Yes,Startup
+E01551,2023-11-28,Yes,Compensation,5,2,No,No,Competitor
+E01555,2018-01-25,No,Policy Violation,1,4,Yes,Yes,Higher Education
+E01560,2024-09-03,Yes,Manager,1,5,No,No,Career Break
+E01567,2025-12-13,Yes,Compensation,2,5,No,Yes,Career Break
+E01573,2024-06-27,No,Performance,3,4,No,No,Competitor
+E01577,2017-11-25,No,Restructuring,2,1,Yes,Yes,Unknown
+E01609,2018-05-15,Yes,Better Opportunity,1,1,No,Yes,Career Break
+E01611,2022-05-25,Yes,Work-Life Balance,2,1,No,No,Higher Education
+E01614,2022-11-28,No,Policy Violation,1,2,No,No,Startup
+E01617,2023-06-25,Yes,Career Growth,3,4,Yes,No,Competitor
+E01629,2026-07-08,Yes,Compensation,3,4,No,Yes,Startup
+E01632,2024-12-07,Yes,Work-Life Balance,3,2,No,Yes,Career Break
+E01636,2024-01-28,No,Policy Violation,2,3,Yes,Yes,Competitor
+E01646,2025-05-31,Yes,Better Opportunity,2,2,Yes,Yes,Unknown
+E01651,2023-08-18,Yes,Relocation,1,4,Yes,No,Career Break
+E01653,2019-11-22,No,Policy Violation,4,3,No,No,Competitor
+E01656,2022-12-10,Yes,Career Growth,5,4,Yes,No,Career Break
+E01664,2025-03-02,Yes,Better Opportunity,1,5,Yes,Yes,Career Break
+E01669,2025-07-19,Yes,Better Opportunity,3,4,Yes,No,Career Break
+E01672,2023-05-01,No,Restructuring,3,5,No,No,Higher Education
+E01683,2025-04-27,Yes,Better Opportunity,3,1,No,No,Startup
+E01686,2025-08-28,Yes,Better Opportunity,5,5,No,Yes,Competitor
+E01688,2022-09-02,Yes,Better Opportunity,4,4,Yes,No,Competitor
+E01695,2025-09-12,Yes,Better Opportunity,2,1,No,No,Unknown
+E01698,2024-06-15,Yes,Career Growth,3,2,Yes,No,Unknown
+E01702,2022-11-12,Yes,Work-Life Balance,2,1,Yes,No,Career Break
+E01707,2025-06-01,Yes,Work-Life Balance,5,4,No,No,Unknown
+E01724,2020-01-23,No,Policy Violation,5,4,No,No,Startup
+E01727,2026-07-07,No,Policy Violation,5,5,Yes,Yes,Career Break
+E01745,2026-05-21,No,Policy Violation,2,1,Yes,Yes,Higher Education
+E01751,2018-10-24,No,Restructuring,2,2,No,Yes,Career Break
+E01757,2025-05-26,No,Contract End,1,2,Yes,No,Startup
+E01785,2025-11-17,Yes,Relocation,4,1,Yes,No,Career Break
+E01796,2023-09-07,Yes,Work-Life Balance,4,1,Yes,Yes,Unknown
+E01800,2021-07-19,Yes,Manager,2,5,Yes,Yes,Startup
+E01802,2023-10-07,Yes,Better Opportunity,3,5,Yes,Yes,Unknown
+E01807,2026-08-22,Yes,Work-Life Balance,5,3,No,Yes,Higher Education
+E01815,2021-11-12,Yes,Manager,5,4,No,No,Higher Education
+E01817,2022-12-08,Yes,Compensation,3,1,No,Yes,Career Break
+E01821,2022-05-14,Yes,Relocation,2,1,No,Yes,Startup
+E01836,2025-10-17,Yes,Career Growth,1,3,No,Yes,Career Break
+E01840,2025-05-09,Yes,Manager,2,2,Yes,No,Startup
+E01841,2020-09-03,No,Policy Violation,3,1,Yes,Yes,Competitor
+E01842,2025-12-27,No,Policy Violation,3,2,Yes,Yes,Unknown
+E01844,2026-05-07,Yes,Career Growth,3,2,Yes,No,Startup
+E01848,2020-11-11,Yes,Career Growth,2,3,No,Yes,Startup
+E01850,2021-02-14,No,Policy Violation,2,4,Yes,No,Higher Education
+E01854,2022-03-01,No,Performance,5,2,No,No,Competitor
+E01858,2019-06-07,Yes,Relocation,1,4,No,Yes,Startup
+E01859,2020-08-17,Yes,Relocation,2,4,No,No,Career Break
+E01866,2025-07-13,Yes,Manager,2,2,No,Yes,Higher Education
+E01876,2021-06-19,Yes,Better Opportunity,1,4,Yes,No,Unknown
+E01880,2025-06-14,Yes,Work-Life Balance,5,4,No,Yes,Career Break
+E01883,2025-07-15,No,Performance,5,3,Yes,Yes,Career Break
+E01906,2025-02-28,Yes,Better Opportunity,5,1,Yes,Yes,Startup
+E01914,2025-09-14,Yes,Relocation,2,4,Yes,No,Career Break
+E01915,2018-07-13,Yes,Work-Life Balance,4,2,No,Yes,Career Break
+E01917,2024-06-13,Yes,Manager,1,4,Yes,No,Higher Education
+E01919,2026-03-12,Yes,Career Growth,1,3,Yes,No,Higher Education
+E01920,2023-09-10,Yes,Work-Life Balance,3,3,Yes,No,Competitor
+E01931,2019-09-21,Yes,Compensation,5,3,No,No,Career Break
+E01947,2024-12-20,No,Contract End,3,5,No,No,Unknown
+E01954,2023-06-28,Yes,Career Growth,3,4,Yes,No,Higher Education
+E01967,2018-07-25,Yes,Compensation,1,1,Yes,No,Career Break
+E01978,2026-01-23,No,Performance,2,1,No,Yes,Startup
+E01984,2026-07-17,Yes,Career Growth,2,2,Yes,Yes,Startup
+E01997,2025-04-09,Yes,Manager,2,2,No,No,Career Break
+E01999,2022-03-16,No,Contract End,1,5,Yes,No,Career Break
+E02004,2025-02-27,Yes,Compensation,3,1,No,Yes,Competitor
+E02029,2021-09-14,Yes,Manager,3,5,No,No,Startup
+E02032,2024-08-11,Yes,Relocation,5,3,Yes,No,Competitor
+E02033,2024-06-24,Yes,Manager,1,4,Yes,Yes,Higher Education
+E02034,2020-09-24,No,Policy Violation,4,1,No,Yes,Unknown
+E02040,2021-05-02,No,Policy Violation,2,3,No,No,Higher Education
+E02042,2025-10-26,Yes,Relocation,3,1,No,No,Higher Education
+E02045,2026-02-01,Yes,Manager,3,4,Yes,Yes,Startup
+E02049,2022-04-11,Yes,Manager,1,3,No,No,Unknown
+E02053,2024-04-24,No,Policy Violation,4,5,Yes,No,Unknown
+E02065,2022-08-25,Yes,Better Opportunity,2,3,Yes,No,Unknown
+E02075,2025-05-17,Yes,Career Growth,3,4,Yes,No,Competitor
+E02082,2023-02-04,Yes,Work-Life Balance,1,3,Yes,Yes,Career Break
+E02097,2020-05-30,Yes,Better Opportunity,4,3,Yes,No,Unknown
+E02098,2026-02-18,Yes,Better Opportunity,4,4,No,Yes,Higher Education
+E02099,2023-06-24,Yes,Compensation,4,5,No,No,Higher Education
+E02100,2017-10-29,No,Performance,4,5,No,Yes,Career Break
+E02114,2023-10-10,No,Policy Violation,2,1,No,Yes,Startup
+E02116,2018-04-06,Yes,Manager,1,4,Yes,No,Career Break
+E02123,2024-03-05,Yes,Career Growth,2,4,No,No,Competitor
+E02135,2023-03-16,Yes,Relocation,2,5,No,Yes,Competitor
+E02136,2024-08-22,Yes,Relocation,3,5,Yes,Yes,Startup
+E02153,2024-08-19,Yes,Relocation,1,2,No,Yes,Unknown
+E02159,2021-07-01,Yes,Better Opportunity,5,1,Yes,Yes,Higher Education
+E02161,2022-05-30,Yes,Better Opportunity,2,2,No,Yes,Competitor
+E02162,2019-08-30,Yes,Relocation,2,4,Yes,Yes,Competitor
+E02170,2023-05-29,Yes,Manager,5,1,No,Yes,Career Break
+E02181,2021-03-02,Yes,Manager,2,4,Yes,Yes,Higher Education
+E02183,2026-04-10,Yes,Compensation,1,2,Yes,No,Career Break
+E02186,2023-07-03,Yes,Better Opportunity,3,2,Yes,No,Unknown
+E02191,2024-09-23,Yes,Better Opportunity,4,2,No,Yes,Competitor
+E02196,2024-10-18,No,Performance,2,5,Yes,Yes,Unknown
+E02200,2025-05-10,No,Policy Violation,2,3,Yes,Yes,Unknown
+E02202,2021-03-20,Yes,Better Opportunity,4,3,No,Yes,Higher Education
+E02204,2020-01-29,No,Contract End,3,3,Yes,Yes,Competitor
+E02206,2026-06-20,No,Restructuring,5,3,No,Yes,Career Break
+E02215,2026-03-02,Yes,Better Opportunity,4,3,No,No,Startup
+E02240,2022-03-10,Yes,Better Opportunity,3,5,Yes,No,Startup
+E02241,2026-06-29,No,Policy Violation,5,5,No,Yes,Competitor
+E02243,2023-12-20,Yes,Relocation,5,4,Yes,Yes,Competitor
+E02245,2023-08-22,No,Policy Violation,1,2,No,No,Career Break
+E02247,2024-04-23,Yes,Compensation,4,3,No,No,Competitor
+E02254,2018-09-20,Yes,Work-Life Balance,3,4,Yes,No,Higher Education
+E02259,2024-01-16,Yes,Manager,1,5,No,Yes,Higher Education
+E02260,2025-02-05,Yes,Career Growth,3,3,Yes,Yes,Career Break
+E02264,2025-06-15,Yes,Work-Life Balance,5,1,Yes,No,Higher Education
+E02265,2024-04-03,Yes,Career Growth,3,2,Yes,No,Startup
+E02271,2023-11-22,Yes,Career Growth,3,1,Yes,No,Higher Education
+E02297,2026-04-28,Yes,Relocation,3,5,Yes,Yes,Higher Education
+E02320,2024-04-20,Yes,Relocation,5,1,No,No,Competitor
+E02326,2022-12-09,Yes,Manager,4,1,No,Yes,Career Break
+E02347,2019-05-29,Yes,Better Opportunity,5,5,No,No,Unknown
+E02352,2025-02-21,No,Contract End,4,2,No,Yes,Higher Education
+E02360,2022-08-13,No,Performance,2,5,Yes,Yes,Startup
+E02362,2020-11-16,Yes,Manager,2,1,Yes,Yes,Career Break
+E02372,2022-06-01,No,Performance,1,5,Yes,No,Unknown
+E02376,2024-04-04,No,Restructuring,5,2,No,Yes,Competitor
+E02377,2025-10-23,Yes,Compensation,1,1,Yes,Yes,Higher Education
+E02381,2024-09-06,Yes,Manager,3,5,Yes,No,Career Break
+E02385,2019-11-04,Yes,Compensation,5,3,Yes,Yes,Startup
+E02395,2020-12-13,Yes,Relocation,4,5,No,Yes,Career Break
+E02397,2026-07-19,No,Performance,4,5,No,No,Unknown
+E02411,2024-01-05,Yes,Better Opportunity,4,3,No,Yes,Startup
+E02413,2026-03-17,Yes,Better Opportunity,5,5,No,No,Unknown
+E02419,2023-01-22,Yes,Manager,3,5,No,No,Higher Education
+E02427,2024-07-26,Yes,Better Opportunity,4,2,No,Yes,Startup
+E02433,2025-10-10,Yes,Manager,5,3,No,No,Unknown
+E02440,2020-08-26,Yes,Relocation,4,1,No,Yes,Startup
+E02444,2024-06-18,No,Contract End,1,5,No,Yes,Startup
+E02454,2022-11-27,Yes,Compensation,3,3,No,Yes,Career Break
+E02458,2025-06-16,No,Restructuring,5,2,Yes,Yes,Higher Education
+E02459,2024-04-29,Yes,Better Opportunity,4,5,No,Yes,Career Break
+E02463,2026-03-09,Yes,Career Growth,5,1,No,No,Competitor
+E02464,2025-02-21,No,Performance,4,1,No,Yes,Competitor
+E02488,2026-07-07,Yes,Work-Life Balance,2,3,Yes,No,Career Break
+E02504,2018-07-26,No,Contract End,5,4,Yes,Yes,Competitor
+E02519,2022-01-07,Yes,Manager,2,4,No,Yes,Higher Education
+E02526,2021-05-18,Yes,Work-Life Balance,2,3,No,Yes,Career Break
+E02527,2025-12-16,No,Performance,3,2,Yes,No,Startup
+E02530,2019-04-02,No,Contract End,3,3,Yes,Yes,Career Break
+E02537,2024-08-24,No,Restructuring,4,3,Yes,Yes,Career Break
+E02547,2026-02-27,No,Performance,1,3,No,No,Unknown
+E02551,2019-02-15,No,Restructuring,2,1,Yes,No,Competitor
+E02553,2025-09-29,Yes,Relocation,5,4,No,No,Career Break
+E02554,2024-02-11,Yes,Career Growth,3,1,Yes,Yes,Higher Education
+E02558,2024-09-24,Yes,Work-Life Balance,4,4,No,Yes,Career Break
+E02561,2021-11-24,Yes,Relocation,3,5,No,No,Higher Education
+E02565,2025-10-09,No,Performance,4,5,Yes,Yes,Higher Education
+E02582,2024-01-14,Yes,Relocation,1,4,Yes,No,Higher Education
+E02583,2026-07-15,No,Contract End,2,5,Yes,No,Unknown
+E02586,2020-10-11,No,Contract End,4,2,No,No,Higher Education
+E02618,2019-08-09,Yes,Better Opportunity,1,4,Yes,No,Competitor
+E02630,2017-10-07,Yes,Relocation,5,4,Yes,No,Unknown
+E02631,2021-01-25,Yes,Compensation,5,2,No,Yes,Unknown
+E02642,2026-05-31,Yes,Relocation,4,4,Yes,No,Unknown
+E02645,2022-08-25,Yes,Career Growth,2,5,Yes,Yes,Higher Education
+E02651,2026-05-28,Yes,Career Growth,4,2,Yes,No,Unknown
+E02654,2026-07-15,Yes,Compensation,3,3,Yes,No,Startup
+E02655,2024-09-27,Yes,Better Opportunity,5,5,Yes,No,Career Break
+E02656,2026-03-16,Yes,Work-Life Balance,5,5,Yes,No,Startup
+E02666,2026-06-19,Yes,Work-Life Balance,5,2,Yes,Yes,Unknown
+E02672,2025-02-06,No,Contract End,5,4,No,Yes,Competitor
+E02685,2025-10-04,Yes,Work-Life Balance,5,4,Yes,Yes,Unknown
+E02688,2024-11-16,Yes,Better Opportunity,4,5,Yes,Yes,Unknown
+E02695,2022-10-08,Yes,Career Growth,2,5,Yes,No,Higher Education
+E02699,2025-10-01,No,Performance,5,2,No,No,Competitor
+E02706,2025-07-14,Yes,Better Opportunity,4,1,Yes,No,Startup
+E02710,2020-09-22,No,Policy Violation,5,5,No,No,Unknown
+E02714,2025-11-26,Yes,Manager,2,1,Yes,Yes,Competitor
+E02716,2025-12-08,Yes,Compensation,5,3,Yes,No,Competitor
+E02723,2026-08-11,Yes,Relocation,2,1,No,Yes,Unknown
+E02731,2023-08-22,No,Performance,2,2,No,Yes,Competitor
+E02750,2021-12-14,Yes,Career Growth,5,4,No,Yes,Unknown
+E02759,2024-04-11,Yes,Work-Life Balance,4,1,No,Yes,Unknown
+E02762,2025-10-01,Yes,Career Growth,1,1,No,No,Career Break
+E02768,2021-04-05,Yes,Compensation,1,2,No,No,Competitor
+E02776,2024-12-16,No,Contract End,1,1,Yes,Yes,Startup
+E02781,2023-09-03,Yes,Work-Life Balance,2,1,Yes,Yes,Higher Education
+E02790,2024-07-25,Yes,Compensation,3,2,Yes,No,Unknown
+E02797,2026-02-08,Yes,Work-Life Balance,2,4,Yes,No,Startup
+E02798,2024-05-05,Yes,Career Growth,3,3,No,Yes,Unknown
+E02804,2025-11-30,No,Policy Violation,1,4,Yes,Yes,Unknown
+E02810,2019-08-11,Yes,Better Opportunity,2,3,No,Yes,Startup
+E02812,2024-12-25,Yes,Better Opportunity,1,4,Yes,Yes,Career Break
+E02820,2025-08-15,Yes,Manager,4,5,No,No,Unknown
+E02843,2026-08-12,No,Performance,4,5,No,Yes,Startup
+E02844,2025-01-30,No,Policy Violation,5,2,Yes,No,Competitor
+E02846,2023-11-06,No,Policy Violation,3,3,No,Yes,Unknown
+E02858,2017-08-12,No,Contract End,2,1,No,Yes,Higher Education
+E02867,2022-12-17,Yes,Career Growth,5,3,Yes,No,Competitor
+E02880,2021-03-10,Yes,Relocation,3,5,No,No,Unknown
+E02888,2025-02-14,Yes,Compensation,3,5,No,No,Higher Education
+E02891,2020-12-01,No,Performance,1,3,No,Yes,Competitor
+E02898,2026-04-18,Yes,Compensation,5,4,No,No,Competitor
+E02909,2024-09-29,Yes,Manager,4,4,Yes,Yes,Startup
+E02918,2022-08-16,Yes,Better Opportunity,2,3,No,No,Competitor
+E02919,2020-08-06,Yes,Manager,1,3,Yes,No,Career Break
+E02927,2024-07-27,No,Restructuring,4,5,Yes,Yes,Unknown
+E02960,2024-07-16,Yes,Work-Life Balance,3,5,Yes,No,Competitor
+E02961,2021-03-18,Yes,Manager,4,3,Yes,No,Higher Education
+E02967,2026-01-16,No,Contract End,1,3,Yes,No,Higher Education
+E02969,2024-03-02,Yes,Relocation,2,5,Yes,No,Unknown
+E02971,2021-12-04,Yes,Manager,4,3,Yes,Yes,Higher Education
+E02972,2025-01-17,Yes,Work-Life Balance,3,5,No,Yes,Competitor
+E02980,2022-08-21,Yes,Better Opportunity,2,2,No,No,Startup
+E02982,2024-11-05,No,Policy Violation,3,4,No,No,Startup
+E02986,2019-08-24,No,Restructuring,1,3,No,No,Competitor
+E02990,2024-04-12,Yes,Career Growth,4,4,No,Yes,Startup
+E02991,2023-12-16,Yes,Relocation,2,5,No,No,Unknown
+E03011,2025-03-06,Yes,Work-Life Balance,3,2,No,Yes,Higher Education
+E03013,2025-05-04,Yes,Compensation,1,3,Yes,No,Career Break
+E03016,2026-08-27,Yes,Compensation,2,1,No,Yes,Unknown
+E03022,2020-03-26,Yes,Manager,3,5,No,Yes,Startup
+E03032,2022-06-12,Yes,Manager,3,4,No,No,Career Break
+E03037,2020-09-02,No,Performance,5,2,No,No,Competitor
+E03041,2020-11-04,Yes,Better Opportunity,3,4,Yes,No,Career Break
+E03045,2024-03-30,No,Restructuring,2,5,No,Yes,Startup
+E03047,2022-04-07,No,Restructuring,5,4,No,Yes,Unknown
+E03049,2024-04-21,Yes,Manager,1,1,No,Yes,Career Break
+E03052,2026-07-29,Yes,Relocation,5,4,Yes,No,Startup
+E03081,2026-05-30,Yes,Better Opportunity,3,3,Yes,Yes,Career Break
+E03085,2024-04-22,Yes,Relocation,4,4,No,Yes,Startup
+E03091,2021-08-04,No,Restructuring,4,5,Yes,No,Career Break
+E03124,2025-07-19,Yes,Relocation,2,3,Yes,Yes,Competitor
+E03125,2019-11-08,No,Policy Violation,3,5,Yes,No,Unknown
+E03128,2026-02-26,No,Policy Violation,4,4,Yes,No,Higher Education
+E03149,2024-08-04,Yes,Manager,4,4,No,Yes,Career Break
+E03152,2023-07-10,No,Policy Violation,2,1,Yes,No,Unknown
+E03153,2025-01-23,Yes,Work-Life Balance,3,5,No,No,Career Break
+E03154,2026-02-22,Yes,Manager,1,2,Yes,Yes,Competitor
+E03158,2022-09-16,Yes,Relocation,5,5,No,Yes,Higher Education
+E03160,2025-06-19,Yes,Career Growth,5,2,No,No,Competitor
+E03179,2020-08-27,Yes,Work-Life Balance,1,3,Yes,Yes,Higher Education
+E03181,2026-02-27,Yes,Manager,5,2,Yes,No,Higher Education
+E03184,2024-10-21,Yes,Manager,4,3,No,No,Startup
+E03192,2020-06-08,Yes,Manager,3,1,Yes,Yes,Competitor
+E03197,2026-04-13,Yes,Work-Life Balance,2,1,Yes,Yes,Startup
+E03220,2021-01-07,Yes,Better Opportunity,5,5,Yes,Yes,Startup
+E03234,2024-06-20,No,Contract End,4,4,Yes,No,Higher Education
+E03235,2024-06-03,No,Restructuring,2,2,Yes,Yes,Career Break
+E03237,2026-08-13,Yes,Compensation,4,1,No,No,Startup
+E03239,2023-09-03,No,Contract End,5,4,No,No,Higher Education
+E03240,2021-06-19,Yes,Better Opportunity,4,2,No,Yes,Career Break
+E03241,2025-09-08,No,Policy Violation,5,1,Yes,No,Competitor
+E03242,2026-03-10,Yes,Better Opportunity,3,3,No,Yes,Higher Education
+E03245,2024-09-06,Yes,Relocation,5,3,Yes,No,Unknown
+E03248,2023-11-25,No,Restructuring,2,2,No,Yes,Competitor
+E03250,2022-10-18,Yes,Manager,3,2,No,Yes,Higher Education
+E03255,2025-08-10,Yes,Career Growth,5,3,No,Yes,Competitor
+E03256,2023-12-17,No,Restructuring,3,3,Yes,Yes,Startup
+E03279,2025-08-15,Yes,Work-Life Balance,5,3,Yes,Yes,Career Break
+E03282,2022-02-14,Yes,Relocation,5,5,No,Yes,Career Break
+E03290,2026-08-30,Yes,Manager,2,4,Yes,Yes,Startup
+E03296,2022-11-23,No,Performance,4,4,Yes,Yes,Competitor
+E03302,2019-03-09,No,Performance,3,5,No,Yes,Startup
+E03304,2025-10-19,Yes,Compensation,4,5,Yes,No,Competitor
+E03307,2018-10-02,Yes,Career Growth,3,4,No,No,Higher Education
+E03309,2020-10-29,No,Policy Violation,1,1,Yes,No,Competitor
+E03314,2023-02-08,Yes,Manager,5,2,No,No,Competitor
+E03318,2022-11-16,Yes,Career Growth,5,4,Yes,No,Higher Education
+E03319,2026-03-07,Yes,Better Opportunity,2,3,Yes,No,Unknown
+E03324,2023-03-11,No,Policy Violation,3,1,Yes,No,Career Break
+E03326,2024-05-10,Yes,Career Growth,3,3,Yes,Yes,Higher Education
+E03330,2025-04-13,Yes,Relocation,5,3,No,No,Career Break
+E03333,2020-01-26,Yes,Relocation,2,5,Yes,Yes,Competitor
+E03337,2026-02-25,Yes,Manager,3,3,No,Yes,Competitor
+E03352,2022-01-12,Yes,Manager,4,2,Yes,No,Higher Education
+E03353,2024-02-22,Yes,Work-Life Balance,1,5,No,Yes,Competitor
+E03365,2023-06-27,Yes,Relocation,5,5,Yes,Yes,Unknown
+E03378,2020-05-31,Yes,Compensation,4,2,No,Yes,Career Break
+E03379,2026-07-27,Yes,Compensation,5,1,No,No,Higher Education
+E03382,2021-11-12,Yes,Manager,5,4,Yes,No,Career Break
+E03385,2024-08-13,Yes,Relocation,4,4,No,Yes,Competitor
+E03389,2021-10-06,Yes,Better Opportunity,4,4,No,No,Career Break
+E03412,2025-03-10,Yes,Compensation,5,1,No,No,Higher Education
+E03415,2017-05-05,Yes,Manager,4,3,No,No,Competitor
+E03416,2022-12-11,Yes,Relocation,2,1,No,No,Competitor
+E03417,2025-05-14,No,Restructuring,3,3,No,No,Unknown
+E03420,2024-04-06,Yes,Relocation,5,4,Yes,Yes,Competitor
+E03424,2020-01-08,Yes,Better Opportunity,2,4,Yes,Yes,Unknown
+E03426,2026-06-21,No,Performance,2,2,Yes,Yes,Career Break
+E03431,2025-10-29,Yes,Manager,5,5,No,No,Startup
+E03441,2025-02-25,Yes,Compensation,3,3,No,Yes,Competitor
+E03443,2025-01-13,Yes,Compensation,1,3,Yes,No,Higher Education
+E03456,2024-06-16,Yes,Compensation,1,3,Yes,No,Startup
+E03463,2021-05-07,Yes,Better Opportunity,3,1,Yes,No,Startup
+E03473,2024-12-23,No,Contract End,2,3,Yes,No,Competitor
+E03481,2018-12-18,Yes,Relocation,4,2,No,No,Competitor
+E03487,2023-08-04,Yes,Manager,5,1,No,Yes,Career Break
+E03489,2022-10-18,Yes,Work-Life Balance,3,3,No,Yes,Career Break
+E03511,2025-06-28,Yes,Career Growth,3,4,No,No,Unknown
+E03525,2024-10-28,Yes,Compensation,4,4,No,No,Startup
+E03534,2019-04-11,Yes,Better Opportunity,3,1,Yes,Yes,Higher Education
+E03538,2019-02-22,Yes,Manager,5,3,No,Yes,Higher Education
+E03539,2024-07-11,Yes,Compensation,1,1,Yes,Yes,Unknown
+E03549,2022-07-06,Yes,Career Growth,5,5,No,Yes,Startup
+E03551,2023-12-01,Yes,Better Opportunity,5,1,No,Yes,Startup
+E03565,2025-12-12,Yes,Manager,3,3,Yes,No,Startup
+E03567,2018-09-30,Yes,Better Opportunity,3,2,Yes,No,Career Break
+E03573,2020-06-10,Yes,Relocation,4,1,No,No,Startup
+E03578,2026-05-02,Yes,Career Growth,5,3,Yes,No,Competitor
+E03580,2023-10-24,No,Policy Violation,3,1,No,No,Career Break
+E03581,2024-06-13,Yes,Work-Life Balance,2,4,No,No,Unknown
+E03596,2021-10-06,Yes,Better Opportunity,2,1,Yes,No,Career Break
+E03600,2024-05-23,No,Contract End,5,5,Yes,Yes,Competitor
+E03606,2022-06-24,Yes,Compensation,3,1,No,No,Competitor
+E03610,2020-09-15,Yes,Manager,5,4,No,No,Higher Education
+E03613,2024-03-08,Yes,Relocation,5,5,Yes,No,Career Break
+E03618,2024-05-05,No,Restructuring,1,5,No,Yes,Competitor
+E03622,2026-03-05,Yes,Compensation,5,2,No,No,Career Break
+E03631,2023-10-31,Yes,Work-Life Balance,5,3,No,No,Higher Education
+E03635,2025-08-03,Yes,Career Growth,1,3,Yes,Yes,Competitor
+E03639,2024-06-18,No,Policy Violation,3,5,No,Yes,Career Break
+E03645,2025-08-26,Yes,Career Growth,2,5,No,Yes,Unknown
+E03647,2023-05-05,Yes,Manager,5,1,Yes,Yes,Startup
+E03648,2023-12-20,Yes,Work-Life Balance,1,2,Yes,Yes,Higher Education
+E03654,2022-07-02,No,Contract End,2,1,No,Yes,Higher Education
+E03657,2024-12-17,Yes,Relocation,3,2,No,Yes,Startup
+E03660,2024-08-24,No,Restructuring,4,3,No,No,Higher Education
+E03680,2024-09-03,No,Policy Violation,1,4,Yes,Yes,Startup
+E03684,2023-06-04,Yes,Career Growth,3,4,Yes,No,Higher Education
+E03688,2023-06-28,Yes,Compensation,5,2,No,Yes,Higher Education
+E03689,2026-05-25,Yes,Manager,1,2,Yes,Yes,Career Break
+E03704,2021-11-01,Yes,Better Opportunity,4,4,No,No,Career Break
+E03711,2024-05-30,Yes,Work-Life Balance,3,4,Yes,No,Startup
+E03713,2023-05-09,Yes,Relocation,3,4,Yes,Yes,Competitor
+E03715,2020-04-17,Yes,Career Growth,1,5,Yes,No,Competitor
+E03722,2021-10-08,Yes,Career Growth,2,5,No,Yes,Competitor
+E03724,2023-10-15,Yes,Career Growth,4,2,Yes,No,Higher Education
+E03732,2026-03-03,No,Contract End,4,3,Yes,Yes,Higher Education
+E03733,2024-11-06,Yes,Manager,4,3,No,No,Startup
+E03745,2019-02-14,Yes,Work-Life Balance,4,5,Yes,No,Unknown
+E03759,2024-04-03,No,Policy Violation,3,5,No,Yes,Unknown
+E03769,2026-03-09,Yes,Work-Life Balance,3,1,No,No,Career Break
+E03776,2022-07-24,Yes,Career Growth,5,3,Yes,Yes,Career Break
+E03787,2026-05-27,Yes,Better Opportunity,1,2,Yes,Yes,Competitor
+E03791,2022-01-29,Yes,Manager,4,2,Yes,No,Higher Education
+E03794,2025-09-11,Yes,Compensation,3,5,No,Yes,Career Break
+E03795,2022-08-03,No,Contract End,3,2,No,No,Higher Education
+E03802,2026-03-23,Yes,Compensation,4,1,No,No,Career Break
+E03805,2024-12-12,No,Policy Violation,2,1,Yes,No,Unknown
+E03807,2026-02-25,Yes,Compensation,3,3,No,Yes,Startup
+E03808,2021-10-14,No,Performance,5,3,Yes,Yes,Startup
+E03809,2022-11-14,Yes,Relocation,2,1,No,Yes,Higher Education
+E03812,2019-06-21,Yes,Work-Life Balance,4,3,No,Yes,Competitor
+E03821,2023-11-21,Yes,Work-Life Balance,5,1,Yes,No,Competitor
+E03838,2021-01-15,No,Contract End,5,2,No,No,Competitor
+E03847,2022-10-14,Yes,Compensation,4,5,No,No,Competitor
+E03850,2025-06-23,Yes,Better Opportunity,5,2,No,Yes,Higher Education
+E03853,2025-03-03,Yes,Relocation,1,5,Yes,No,Unknown
+E03854,2026-07-02,Yes,Work-Life Balance,5,1,Yes,Yes,Startup
+E03863,2023-12-30,Yes,Relocation,5,1,No,Yes,Startup
+E03867,2026-03-14,No,Policy Violation,2,1,Yes,Yes,Startup
+E03871,2023-05-20,No,Restructuring,1,3,Yes,No,Career Break
+E03890,2026-05-10,No,Contract End,1,4,No,No,Higher Education
+E03893,2025-07-31,No,Contract End,4,4,No,Yes,Startup
+E03899,2022-01-21,Yes,Manager,2,1,No,Yes,Unknown
+E03912,2025-10-01,Yes,Relocation,1,3,No,Yes,Startup
+E03916,2026-03-03,Yes,Work-Life Balance,1,4,No,No,Higher Education
+E03917,2026-07-19,Yes,Career Growth,1,5,Yes,No,Higher Education
+E03928,2025-03-17,No,Restructuring,4,5,Yes,No,Startup
+E03931,2022-06-18,No,Contract End,1,1,No,No,Startup
+E03940,2026-01-17,Yes,Compensation,1,3,Yes,Yes,Unknown
+E03950,2024-02-15,Yes,Work-Life Balance,1,3,Yes,No,Higher Education
+E03954,2023-12-12,No,Restructuring,4,5,Yes,No,Competitor
+E03955,2026-04-05,Yes,Better Opportunity,3,4,No,Yes,Higher Education
+E03957,2025-05-10,Yes,Manager,4,5,Yes,No,Unknown
+E03966,2024-02-25,Yes,Career Growth,4,1,No,Yes,Startup
+E03970,2025-05-07,Yes,Career Growth,3,1,Yes,No,Unknown
+E03972,2023-02-21,No,Contract End,5,3,No,Yes,Competitor
+E03977,2025-09-04,Yes,Compensation,5,3,No,No,Higher Education
+E03979,2022-02-11,Yes,Better Opportunity,1,5,No,No,Unknown
+E03980,2024-07-03,Yes,Work-Life Balance,3,3,Yes,No,Competitor
+E03983,2026-08-23,Yes,Compensation,2,2,Yes,No,Career Break
+E03991,2020-11-22,No,Contract End,5,1,No,No,Startup
+E03993,2024-07-22,Yes,Better Opportunity,5,3,No,No,Higher Education
+E04005,2021-08-13,Yes,Relocation,5,4,Yes,Yes,Unknown
+E04007,2026-03-06,Yes,Compensation,2,2,No,No,Career Break
+E04013,2024-07-23,No,Restructuring,4,1,No,No,Competitor
+E04014,2026-07-13,Yes,Work-Life Balance,5,3,Yes,No,Higher Education
+E04015,2022-11-26,Yes,Career Growth,2,3,Yes,No,Unknown
+E04017,2026-04-19,Yes,Manager,5,3,Yes,Yes,Startup
+E04018,2026-07-18,Yes,Manager,4,1,No,No,Startup
+E04019,2025-03-11,Yes,Career Growth,1,1,Yes,Yes,Unknown
+E04021,2025-08-14,Yes,Better Opportunity,3,2,No,No,Career Break
+E04027,2021-08-13,No,Performance,3,5,No,No,Startup
+E04036,2023-03-14,Yes,Relocation,5,2,Yes,Yes,Higher Education
+E04037,2022-10-10,Yes,Better Opportunity,5,2,Yes,Yes,Startup
+E04043,2020-07-11,Yes,Better Opportunity,5,4,No,Yes,Higher Education
+E04056,2026-01-20,No,Policy Violation,4,5,No,Yes,Competitor
+E04067,2023-09-17,Yes,Better Opportunity,3,4,No,Yes,Competitor
+E04069,2022-03-04,Yes,Work-Life Balance,4,5,No,No,Career Break
+E04077,2026-06-04,Yes,Compensation,1,1,Yes,Yes,Competitor
+E04080,2022-09-11,Yes,Better Opportunity,1,4,No,Yes,Competitor
+E04082,2025-09-03,Yes,Work-Life Balance,2,1,No,No,Career Break
+E04092,2022-04-07,No,Contract End,3,1,No,No,Startup
+E04095,2024-02-23,Yes,Manager,3,1,No,No,Competitor
+E04098,2025-07-09,Yes,Work-Life Balance,3,1,No,Yes,Unknown
+E04100,2026-01-02,Yes,Work-Life Balance,4,1,Yes,Yes,Competitor
+E04102,2025-09-10,No,Performance,3,4,No,Yes,Unknown
+E04104,2025-06-05,Yes,Manager,4,4,No,Yes,Higher Education
+E04122,2026-06-03,Yes,Compensation,5,4,Yes,No,Competitor
+E04123,2022-01-10,Yes,Manager,4,3,Yes,No,Startup
+E04134,2020-02-23,Yes,Career Growth,5,2,No,No,Unknown
+E04141,2025-02-16,Yes,Work-Life Balance,5,4,Yes,No,Startup
+E04152,2022-01-20,Yes,Better Opportunity,4,3,No,Yes,Unknown
+E04168,2021-01-11,No,Policy Violation,4,3,No,Yes,Unknown
+E04174,2023-10-31,Yes,Compensation,2,4,Yes,No,Unknown
+E04176,2024-07-21,Yes,Manager,5,1,Yes,No,Career Break
+E04179,2026-08-18,Yes,Compensation,4,2,Yes,No,Career Break
+E04180,2023-09-29,No,Performance,3,3,No,Yes,Competitor
+E04199,2025-01-06,No,Policy Violation,2,3,No,No,Competitor
+E04204,2024-05-30,Yes,Career Growth,2,2,Yes,Yes,Unknown
+E04221,2020-04-17,No,Performance,3,3,Yes,No,Competitor
+E04229,2023-09-02,Yes,Better Opportunity,5,2,Yes,Yes,Unknown
+E04231,2025-06-08,Yes,Career Growth,5,2,Yes,No,Competitor
+E04232,2023-05-16,No,Restructuring,1,4,Yes,Yes,Unknown
+E04233,2026-03-30,Yes,Relocation,2,1,No,No,Unknown
+E04234,2021-06-03,No,Performance,5,2,Yes,Yes,Higher Education
+E04237,2024-08-26,No,Contract End,1,1,Yes,No,Startup
+E04243,2024-03-27,Yes,Manager,2,3,Yes,Yes,Competitor
+E04254,2025-06-29,Yes,Work-Life Balance,3,1,No,Yes,Higher Education
+E04258,2023-09-06,Yes,Better Opportunity,4,1,Yes,Yes,Unknown
+E04265,2026-03-22,No,Performance,3,2,No,No,Higher Education
+E04271,2024-07-07,Yes,Manager,3,1,Yes,Yes,Competitor
+E04275,2022-08-27,No,Policy Violation,4,1,Yes,No,Startup
+E04277,2025-07-08,Yes,Compensation,5,4,Yes,No,Higher Education
+E04280,2022-10-10,No,Contract End,4,2,Yes,Yes,Competitor
+E04286,2024-03-19,Yes,Manager,3,1,Yes,No,Unknown
+E04291,2024-06-21,No,Performance,1,3,Yes,No,Unknown
+E04308,2024-08-17,Yes,Career Growth,3,2,Yes,No,Higher Education
+E04324,2026-01-13,Yes,Work-Life Balance,1,3,Yes,Yes,Competitor
+E04327,2024-03-25,Yes,Manager,2,1,No,No,Competitor
+E04328,2024-10-07,Yes,Career Growth,4,2,Yes,Yes,Higher Education
+E04330,2022-11-15,Yes,Better Opportunity,1,2,Yes,No,Competitor
+E04332,2024-10-28,Yes,Work-Life Balance,5,2,No,Yes,Unknown
+E04334,2023-12-11,Yes,Relocation,1,3,No,No,Unknown
+E04335,2020-07-10,Yes,Compensation,3,2,No,No,Unknown
+E04362,2019-02-23,Yes,Career Growth,1,1,Yes,Yes,Competitor
+E04375,2025-10-01,No,Policy Violation,5,2,Yes,No,Unknown
+E04376,2025-08-20,No,Performance,5,5,No,Yes,Higher Education
+E04392,2026-07-21,Yes,Better Opportunity,2,3,No,No,Unknown
+E04397,2019-01-27,No,Policy Violation,3,2,No,No,Career Break
+E04400,2021-06-19,Yes,Relocation,3,2,Yes,No,Higher Education
+E04402,2025-04-07,Yes,Career Growth,3,4,No,Yes,Competitor
+E04404,2026-08-04,Yes,Work-Life Balance,5,4,No,No,Higher Education
+E04413,2024-10-24,No,Performance,4,3,Yes,Yes,Unknown
+E04434,2025-08-29,Yes,Better Opportunity,1,2,Yes,No,Startup
+E04440,2025-07-23,Yes,Compensation,4,5,No,No,Unknown
+E04442,2024-12-03,Yes,Compensation,4,2,Yes,Yes,Higher Education
+E04443,2024-01-09,No,Policy Violation,3,1,Yes,Yes,Unknown
+E04448,2023-11-13,No,Performance,5,5,Yes,Yes,Higher Education
+E04450,2025-01-04,Yes,Compensation,2,4,Yes,No,Competitor
+E04454,2019-03-27,Yes,Career Growth,4,1,Yes,Yes,Competitor
+E04468,2026-08-19,Yes,Work-Life Balance,4,2,No,No,Higher Education
+E04469,2023-06-16,Yes,Compensation,1,5,Yes,Yes,Career Break
+E04474,2020-06-11,Yes,Career Growth,2,3,Yes,Yes,Unknown
+E04478,2020-10-17,No,Contract End,4,5,No,No,Competitor
+E04479,2026-08-25,No,Policy Violation,3,1,No,Yes,Startup
+E04483,2022-02-27,Yes,Relocation,4,1,No,Yes,Unknown
+E04486,2024-05-23,Yes,Manager,2,4,Yes,Yes,Startup
+E04502,2024-06-04,Yes,Manager,2,2,Yes,Yes,Competitor
+E04505,2026-03-06,Yes,Compensation,2,5,No,Yes,Career Break
+E04516,2022-01-29,Yes,Manager,1,5,Yes,No,Unknown
+E04553,2019-09-17,No,Policy Violation,5,3,No,No,Unknown
+E04555,2024-10-21,No,Restructuring,2,4,Yes,No,Higher Education
+E04568,2025-01-17,Yes,Better Opportunity,1,1,Yes,No,Higher Education
+E04572,2020-10-20,Yes,Better Opportunity,4,2,No,Yes,Career Break
+E04578,2022-12-04,Yes,Better Opportunity,2,1,No,Yes,Startup
+E04581,2022-12-22,Yes,Relocation,2,3,Yes,No,Higher Education
+E04587,2022-05-12,Yes,Better Opportunity,1,1,Yes,No,Unknown
+E04593,2025-05-15,Yes,Work-Life Balance,1,1,Yes,No,Competitor
+E04595,2024-11-12,No,Restructuring,4,2,No,Yes,Higher Education
+E04599,2026-04-20,Yes,Compensation,2,1,No,Yes,Startup
+E04614,2020-04-20,Yes,Relocation,4,2,No,No,Startup
+E04622,2025-02-23,Yes,Better Opportunity,1,2,No,No,Unknown
+E04623,2024-12-29,Yes,Manager,1,4,Yes,Yes,Higher Education
+E04632,2025-10-04,Yes,Manager,4,3,Yes,Yes,Startup
+E04634,2026-04-02,Yes,Better Opportunity,1,1,No,Yes,Startup
+E04641,2022-12-20,Yes,Relocation,1,5,No,No,Higher Education
+E04650,2021-01-03,No,Performance,2,3,Yes,Yes,Startup
+E04654,2022-02-27,Yes,Compensation,2,5,Yes,Yes,Unknown
+E04660,2025-01-31,Yes,Career Growth,5,4,No,Yes,Unknown
+E04662,2025-05-21,Yes,Manager,4,5,Yes,Yes,Career Break
+E04668,2024-07-14,Yes,Relocation,1,2,Yes,Yes,Unknown
+E04672,2025-03-05,No,Restructuring,2,4,No,No,Unknown
+E04677,2026-04-03,Yes,Compensation,4,1,No,Yes,Unknown
+E04688,2020-04-07,Yes,Compensation,2,5,Yes,No,Higher Education
+E04690,2021-05-12,Yes,Compensation,4,5,No,No,Unknown
+E04691,2024-04-13,No,Restructuring,3,5,Yes,Yes,Unknown
+E04694,2023-04-13,Yes,Manager,3,3,Yes,Yes,Career Break
+E04699,2019-07-15,Yes,Relocation,3,3,No,Yes,Startup
+E04703,2024-09-01,Yes,Manager,3,5,No,Yes,Competitor
+E04707,2024-07-21,Yes,Compensation,4,5,Yes,Yes,Higher Education
+E04724,2020-11-05,Yes,Manager,5,1,Yes,Yes,Competitor
+E04729,2021-07-26,Yes,Better Opportunity,2,2,No,No,Startup
+E04737,2025-11-07,Yes,Manager,5,1,Yes,Yes,Unknown
+E04742,2022-03-17,Yes,Manager,1,1,No,No,Career Break
+E04749,2024-10-10,Yes,Career Growth,2,2,No,Yes,Career Break
+E04765,2023-08-05,Yes,Relocation,5,1,Yes,Yes,Competitor
+E04771,2023-07-26,Yes,Better Opportunity,5,5,Yes,Yes,Career Break
+E04778,2023-07-27,Yes,Work-Life Balance,3,1,No,Yes,Competitor
+E04782,2026-05-06,No,Contract End,3,2,No,No,Higher Education
+E04785,2023-02-27,No,Policy Violation,2,1,No,No,Career Break
+E04786,2017-10-07,Yes,Manager,3,4,No,Yes,Competitor
+E04788,2023-08-28,Yes,Better Opportunity,4,5,Yes,No,Higher Education
+E04795,2021-07-07,Yes,Career Growth,1,4,Yes,Yes,Higher Education
+E04796,2020-03-06,Yes,Work-Life Balance,5,4,No,Yes,Unknown
+E04808,2024-03-03,No,Restructuring,1,3,Yes,Yes,Competitor
+E04823,2022-04-08,Yes,Better Opportunity,3,5,Yes,Yes,Higher Education
+E04828,2026-08-12,Yes,Compensation,2,5,No,Yes,Unknown
+E04831,2026-02-16,Yes,Compensation,3,3,Yes,Yes,Career Break
+E04835,2019-08-04,No,Restructuring,3,5,Yes,Yes,Competitor
+E04836,2025-06-25,Yes,Career Growth,3,3,Yes,No,Career Break
+E04837,2024-06-13,Yes,Career Growth,3,2,Yes,Yes,Unknown
+E04840,2026-06-20,Yes,Compensation,4,1,No,Yes,Career Break
+E04842,2023-11-29,Yes,Career Growth,2,2,No,Yes,Career Break
+E04844,2024-07-07,Yes,Career Growth,1,1,Yes,No,Startup
+E04845,2022-03-17,No,Performance,4,5,No,No,Higher Education
+E04847,2024-01-09,Yes,Compensation,1,3,No,Yes,Competitor
+E04849,2025-03-12,Yes,Work-Life Balance,5,3,Yes,Yes,Competitor
+E04853,2026-04-10,Yes,Compensation,4,5,Yes,No,Competitor
+E04857,2023-05-04,No,Performance,5,2,No,No,Career Break
+E04859,2024-02-22,Yes,Career Growth,4,5,Yes,Yes,Unknown
+E04862,2025-03-02,Yes,Compensation,2,4,No,No,Career Break
+E04863,2023-02-04,No,Performance,1,2,Yes,Yes,Competitor
+E04867,2026-07-08,No,Restructuring,2,1,Yes,No,Startup
+E04869,2025-03-07,Yes,Manager,1,3,No,Yes,Startup
+E04876,2021-08-15,Yes,Manager,2,1,Yes,Yes,Competitor
+E04882,2024-12-31,Yes,Compensation,3,3,No,Yes,Higher Education
+E04884,2025-03-12,Yes,Relocation,3,1,Yes,Yes,Higher Education
+E04886,2024-12-03,Yes,Compensation,1,5,Yes,No,Career Break
+E04888,2023-11-03,Yes,Relocation,4,2,No,No,Higher Education
+E04891,2025-02-09,No,Performance,4,3,Yes,No,Unknown
+E04893,2026-08-29,Yes,Manager,2,1,No,No,Startup
+E04894,2026-03-31,Yes,Work-Life Balance,2,3,Yes,Yes,Career Break
+E04909,2025-03-23,Yes,Better Opportunity,3,5,No,Yes,Startup
+E04911,2026-04-27,Yes,Work-Life Balance,5,2,Yes,Yes,Career Break
+E04914,2023-07-01,Yes,Compensation,1,5,Yes,No,Career Break
+E04921,2026-02-21,Yes,Better Opportunity,1,1,Yes,Yes,Competitor
+E04922,2020-01-30,Yes,Better Opportunity,3,2,No,Yes,Higher Education
+E04939,2026-06-21,Yes,Compensation,5,2,No,Yes,Competitor
+E04943,2020-12-09,Yes,Better Opportunity,4,2,Yes,No,Unknown
+E04945,2024-09-12,Yes,Career Growth,2,1,No,Yes,Competitor
+E04946,2023-01-16,Yes,Relocation,5,1,No,Yes,Higher Education
+E04953,2025-11-28,Yes,Better Opportunity,3,1,No,No,Startup
+E04961,2023-06-01,Yes,Better Opportunity,5,3,Yes,No,Higher Education
+E04969,2024-01-18,Yes,Compensation,5,4,Yes,Yes,Competitor
+E04974,2023-03-30,Yes,Manager,1,1,Yes,Yes,Unknown
+E04978,2025-07-18,Yes,Better Opportunity,2,5,No,Yes,Startup
+E04980,2022-06-28,Yes,Relocation,3,3,Yes,No,Unknown
+E04994,2021-10-27,No,Performance,4,5,Yes,No,Unknown
+E04995,2023-08-03,Yes,Manager,5,1,Yes,Yes,Startup
