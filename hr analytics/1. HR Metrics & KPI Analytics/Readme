@@ -1,0 +1,8 @@
+Project: HR KPI Command Center
+
+Participants receive employee master data covering department, location, designation, joining date, salary, performance, attendance and exit status.
+
+They calculate headcount, FTE, turnover/attrition rate, absenteeism, retention rate, average tenure, span of control, internal mobility, promotion rate, cost per employee and diversity representation.
+
+Tools: Excel initially → Power BI later
+Deliverable: Monthly HR KPI scorecard and management dashboard.
