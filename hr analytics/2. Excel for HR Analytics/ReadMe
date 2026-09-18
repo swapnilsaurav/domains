@@ -1,0 +1,9 @@
+Project: Employee Workforce Analysis in Excel
+
+Give students a 1,000–2,000 employee dataset containing deliberate quality problems.
+
+Students perform cleaning, duplicate detection, missing-value treatment, employee segmentation, XLOOKUP, IF/IFS, SUMIFS/COUNTIFS, date calculations, PivotTables, PivotCharts, conditional formatting and basic statistical analysis.
+
+Business question: “What are the major workforce issues management should address?”
+
+Deliverable: Cleaned dataset + interactive Excel HR dashboard.
