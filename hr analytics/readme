@@ -1,1 +1,311 @@
-HR analytics projects
+1. HR Metrics & KPI Analytics
+
+Project: HR KPI Command Center
+
+Students receive employee master data covering department, location, designation, joining date, salary, performance, attendance and exit status.
+
+They calculate headcount, FTE, turnover/attrition rate, absenteeism, retention rate, average tenure, span of control, internal mobility, promotion rate, cost per employee and diversity representation.
+
+Tools: Excel initially → Power BI later
+Deliverable: Monthly HR KPI scorecard and management dashboard.
+
+2. Excel for HR Analytics
+
+Project: Employee Workforce Analysis in Excel
+
+Give students a 1,000–2,000 employee dataset containing deliberate quality problems.
+
+Students perform cleaning, duplicate detection, missing-value treatment, employee segmentation, XLOOKUP, IF/IFS, SUMIFS/COUNTIFS, date calculations, PivotTables, PivotCharts, conditional formatting and basic statistical analysis.
+
+Business question: “What are the major workforce issues management should address?”
+
+Deliverable: Cleaned dataset + interactive Excel HR dashboard.
+
+3. Recruitment Analytics
+
+Project: Recruitment Funnel & Hiring Effectiveness
+
+Dataset can contain applications, source, recruiter, job role, interview stages, offer, joining status, salary, hiring cost and dates.
+
+Students calculate:
+
+Applications → screened → interviewed → offered → joined
+Time-to-fill and time-to-hire
+Offer acceptance rate
+Source effectiveness
+Cost per hire
+Recruiter productivity
+Candidate drop-off
+Quality of hire
+
+Tools: Excel / SQL / Power BI
+Deliverable: Recruitment Funnel Dashboard with recommendations.
+
+4. SQL for HR Analytics
+
+Project: HR Employee Database Analytics
+
+Create tables such as Employees, Departments, Attendance, Performance, Recruitment, Compensation, Training and Attrition.
+
+Students answer business questions using SELECT, WHERE, GROUP BY, CASE, JOINs, subqueries, CTEs and window functions.
+
+Examples include finding departments with highest attrition, salary differences by role, top performers, employees without promotions, absenteeism trends and average tenure before exit.
+
+Deliverable: HR SQL query portfolio containing 25–40 business questions.
+
+5. Employee Attrition & Retention
+
+Project: Why Are Employees Leaving?
+
+This can become one of the flagship projects.
+
+Students investigate attrition against compensation, tenure, overtime, manager, travel, satisfaction, promotion history, performance, commute distance and department.
+
+Tools: Excel → Power BI → Python
+Deliverable: Attrition diagnostic dashboard followed by a predictive model.
+
+This is particularly useful because the same business problem progresses through descriptive, diagnostic and predictive analytics.
+
+6. Power BI HR Analytics
+
+Project: Executive Workforce Analytics Dashboard
+
+Build a multi-page dashboard:
+
+Executive Overview → Workforce → Recruitment → Attrition → Performance → Attendance → Compensation
+
+Students learn data modelling, relationships, Power Query, visualization, drill-through, slicers, bookmarks and tooltips.
+
+Deliverable: Management-ready .pbix dashboard.
+
+7. DAX for HR Analytics
+
+Project: Dynamic Workforce KPI Engine
+
+Rather than teaching DAX separately, students extend the Power BI project.
+
+Measures could include current headcount, YTD hires, YTD exits, attrition %, rolling 12-month attrition, average tenure, YoY headcount growth, absenteeism %, promotion rate, gender representation and hiring conversion.
+
+A particularly useful challenge is “Headcount as of selected date”, because it teaches students why HR analytics is not simply counting rows.
+
+8. Performance Analytics
+Project: Employee Performance & High-Potential Analysis
+Analyze ratings, goals achieved, manager ratings, competency scores, tenure, training and promotions.
+Students identify performance distribution, high performers, consistently declining performers, department/manager differences and possible rating anomalies.
+An advanced version can create a Performance × Potential 9-Box Grid.
+
+Tools: Excel / Power BI / Python
+Deliverable: Performance and talent-management dashboard.
+
+9. Compensation Analytics
+
+Project: Compensation & Pay Equity Dashboard
+Analyze salary by role, grade, experience, tenure, location and performance.
+
+Students calculate compa-ratio, salary distribution, salary bands, internal equity, pay compression and outliers.
+Python can later introduce regression to investigate which observable factors explain compensation differences.
+
+Important teaching point: statistical differences should be investigated rather than automatically interpreted as discrimination.
+
+10. Attendance & Absenteeism Analytics
+
+Project: Workforce Attendance Early-Warning Dashboard
+
+Dataset includes attendance, leave, shift, overtime, manager and employee information.
+
+Students calculate absenteeism %, leave patterns, overtime trends, department comparisons and recurring absence patterns.
+
+Business scenario: “Operations reports increasing absenteeism. Where is the problem concentrated?”
+
+Deliverable: Attendance dashboard + management summary.
+
+11. Learning & Development Analytics
+
+Project: Does Training Actually Improve Performance?
+
+Combine training records with pre/post assessment scores and performance information.
+
+Measure training participation, completion rate, training hours, assessment improvement, training cost, performance change and training effectiveness.
+
+Advanced students can compare trained versus comparable non-trained employees while discussing why simple correlation does not prove causation.
+
+12. Workforce Planning
+
+Project: Next-Year Workforce Requirement Forecast
+
+Business provides projected growth by function.
+
+Students estimate required headcount using current workforce, productivity, attrition, retirement/exit assumptions, hiring lead times and expected demand.
+
+Create scenarios such as:
+
+Baseline / 10% Growth / 20% Growth / Hiring Freeze / High Attrition
+
+Tools: Excel + Power BI + Python
+Deliverable: Workforce planning simulator.
+
+13. Employee Engagement Analytics
+
+Project: Employee Engagement Survey Analyzer
+
+Use Likert-scale survey responses and employee demographics.
+
+Analyze engagement score, eNPS, satisfaction dimensions, department/manager differences and key engagement drivers.
+
+Python can add correlation analysis and regression; text responses can later introduce NLP.
+
+14. Python for HR Analytics
+
+Project: HR Analytics Using Pandas
+
+Students import the employee dataset and perform data cleaning, exploratory analysis, grouping, aggregation, missing-value treatment, outlier analysis, correlations and visualizations.
+
+Libraries:
+
+Pandas → NumPy → Matplotlib → Scikit-learn
+
+Rather than generic Python exercises, every notebook should answer an HR question.
+
+15. Predictive Attrition Analytics
+
+Project: Employee Attrition Prediction System
+
+This should be the main ML project.
+
+Problem: Predict whether an employee is at risk of leaving.
+
+Students perform:
+
+Raw Data → Cleaning → EDA → Feature Engineering → Train/Test Split → Model Training → Evaluation → Prediction → Business Interpretation
+
+Models can include Logistic Regression, Decision Tree and Random Forest.
+
+Evaluation should cover confusion matrix, accuracy, precision, recall, F1 and ROC-AUC.
+
+Deliverable: Notebook + attrition risk list + intervention recommendations.
+
+16. Recruitment Predictive Analytics
+
+Project: Candidate Joining Probability
+
+Predict whether a candidate who receives an offer will actually join.
+
+Possible predictors include source, experience, offered salary, expected salary, notice period, location, interview score and recruitment duration.
+
+ML concept: Classification.
+
+This gives students a second classification use case beyond attrition.
+
+17. Employee Performance Prediction
+
+Project: Predict Future Employee Performance
+
+Use tenure, previous ratings, training hours, attendance, experience, role and other appropriate job-related variables.
+
+ML concept: Regression when predicting a numeric performance measure.
+
+Students learn MAE, MSE, RMSE and R².
+
+18. Employee Segmentation
+
+Project: Discover Workforce Personas
+
+Use unsupervised learning to group employees based on suitable job-related variables such as tenure, compensation, training, performance and engagement.
+
+ML concept: K-Means clustering.
+
+Students could discover descriptive clusters such as newer employees with high training participation or experienced high performers.
+
+The important lesson is to interpret clusters rather than blindly label people.
+
+19. AI / Generative AI in HR
+
+Project: HR Policy Assistant using RAG
+
+Provide HR policy documents covering leave, travel, WFH, reimbursement, probation and benefits.
+
+Students build a simple assistant where an employee can ask:
+
+“How many days of parental leave am I eligible for?”
+
+The system retrieves the relevant policy content before answering.
+
+Concepts: LLM + embeddings + vector search + RAG + grounding.
+
+This is much stronger than merely demonstrating ChatGPT prompts.
+
+20. NLP for Employee Feedback
+
+Project: Employee Voice Analyzer
+
+Analyze hundreds or thousands of anonymized employee survey comments.
+
+Students perform sentiment analysis, topic/theme extraction, keyword analysis and management summarization.
+
+Tools: Python + NLP/LLM
+Deliverable: Employee Voice Dashboard showing major themes while protecting individual privacy.
+
+21. AI-Assisted Resume Analysis
+
+Project: Job–Resume Skills Matching Lab
+
+Students extract job-related skills from a job description and compare them with candidate resumes.
+
+The educational emphasis should be on skills extraction, explainability, human review and bias testing, rather than building an autonomous hiring decision-maker.
+
+Deliverable: Candidate–job skills-gap report.
+
+22. HR Data Quality
+
+Project: HR Data Quality Audit
+
+Deliberately corrupt an HR dataset with missing department codes, duplicate employee IDs, impossible joining dates, inconsistent job titles, invalid salaries and unmatched manager IDs.
+
+Students build rules to detect and report problems.
+
+Tools: Excel → SQL → Python.
+
+This is an excellent early project because real HR analytics starts with messy data.
+
+23. HR Reporting Automation
+
+Project: Automated Monthly HR Report
+
+Students receive monthly HR data and automate:
+
+Data → Cleaning → KPI Calculation → Charts → Management Report
+
+Python can generate summary tables automatically while Power BI handles refreshable reporting.
+
+This teaches the difference between analysis and operational analytics.
+
+24. Prescriptive HR Analytics
+
+Project: Retention Intervention Simulator
+
+Go beyond predicting attrition.
+
+Suppose the company has ₹25 lakh available for retention interventions.
+
+Students determine which employee groups warrant further review and simulate interventions such as manager action, career-development conversations, learning opportunities or compensation review.
+
+The challenge becomes:
+
+Prediction → Business decision → Resource constraint → Expected impact
+
+25. Final Capstone
+Project: People Analytics 360 – From HR Data to Management Decision
+
+Interconnected datasets: Employee Master + Recruitment + Attendance + Compensation + Performance + Training + Engagement + Exit
+
+Students then build:
+
+Excel: Data quality audit and exploratory analysis
+SQL: HR analytical database and business queries
+Power BI: Executive People Analytics dashboard
+DAX: Dynamic HR KPI measures
+Python: Attrition prediction / workforce forecasting
+AI: Employee feedback or HR policy analysis
+Business: 5–10 recommendations for HR leadership
+
+The final presentation can simulate a CHRO meeting: “You have 15 minutes with the CHRO. What does the data say, why does it matter, and what should management investigate or do next?”
