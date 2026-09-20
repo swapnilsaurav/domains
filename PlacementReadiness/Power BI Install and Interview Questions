@@ -1,0 +1,139 @@
+POWER BI INTERVIEW QUESTIONS (Follow up these with Practice on Power BI Desktop)
+
+Download the Power BI Desktop from here:
+https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop
+
+Steps:
+https://www.youtube.com/watch?v=aQhK_iznq24
+
+How to Download
+Go to the Microsoft Download Center.
+Click the Download button.
+Choose the 64-bit version (PBIDesktopSetup_x64.exe).
+Click Next to start downloading the file.
+
+How to Install
+Open your Downloads folder and double-click the installer file.
+Click Yes if Windows asks to let the app make changes to your device.
+Choose your preferred language and click Next.
+Check the box to accept the license agreement and click Next.
+Keep the default installation folder or pick a new one, then click Next.Click Install.Click Finish once the setup is done
+
+INTERVIEW QUESTIONS
+
+Section 1 — Power BI Fundamentals
+1. What is Power BI, and what business problems does it solve?
+2. What are the major components of the Power BI ecosystem?
+3. What is the difference between Power BI Desktop and Power BI Service?
+4. Explain the typical lifecycle of a Power BI analytics project.
+5. What is the difference between a report and a dashboard in Power BI?
+6. What is a semantic model (formerly commonly called a dataset) in Power BI?
+7. What are the different ways of connecting Power BI to data?
+8. What is the difference between Import mode and DirectQuery?
+9. When would you choose DirectQuery instead of Import mode?
+10. What are the advantages and disadvantages of Import mode?
+11. What is a live connection?
+12. Can Power BI connect to Excel, SQL databases, APIs, and cloud applications?
+13. What are filters, slicers, and visual-level filters?
+14. What is drill-down in Power BI?
+15. What is drill-through, and how is it different from drill-down?
+
+Section 2 — Power Query and Data Preparation
+16. What is Power Query, and why is it important?
+17. What is the M language?
+18. What is the difference between Power Query and DAX?
+19. What steps would you follow when receiving a messy Excel file from a business team?
+20. How do you remove duplicate records in Power Query?
+21. How would you handle null or missing values?
+22. What is the difference between Merge Queries and Append Queries?
+23. Give a business example where you would use Merge.
+24. Give a business example where you would use Append.
+25. What is data profiling in Power Query?
+26. What are Column Quality, Column Distribution, and Column Profile?
+27. How would you split a column containing Hyderabad-Telangana-South into separate fields?
+28. How would you combine monthly sales files stored in a folder?
+29. What is query folding?
+30. Why is query folding important for performance?
+
+Section 3 — Data Modeling
+31. What is data modeling in Power BI?
+32. Why shouldn't we simply load every table and column into a Power BI model?
+33. What is a fact table?
+34. What is a dimension table?
+35. Explain a star schema using a sales example.
+36. What is the difference between a star schema and a snowflake schema?
+37. Why is star schema generally preferred for Power BI models?
+38. What is a relationship between tables?
+39. Explain one-to-many relationships with a business example.
+40. What is a many-to-many relationship?
+41. What problems can many-to-many relationships create?
+42. What is relationship cardinality?
+43. What is cross-filter direction?
+44. What is the difference between single-direction and bidirectional filtering?
+45. Why should bidirectional relationships be used carefully?
+46. What is an inactive relationship?
+47. When might you need multiple relationships between two tables?
+48. Why is a dedicated Date table important?
+49. What columns would you include in a Date dimension?
+50. What is the difference between a normalized transactional database and an analytical data model?
+
+Section 4 — DAX
+51. What is DAX?
+52. What is the difference between a calculated column and a measure?
+53. When would you use a measure instead of a calculated column?
+54. Write the logic for calculating Total Sales.
+55. How would you calculate Profit if you have Revenue and Cost?
+56. How would you calculate Profit Margin %?
+57. What does CALCULATE() do?
+58. Why is CALCULATE() considered one of the most important DAX functions?
+59. Explain filter context in simple business terms.
+60. Explain row context.
+61. What is the difference between row context and filter context?
+62. What does FILTER() do?
+63. What is the purpose of ALL()?
+64. How would you calculate each product's percentage contribution to total sales?
+65. What is DISTINCTCOUNT() and where might you use it?
+66. Explain SUM() versus SUMX().
+67. What are iterator functions in DAX?
+68. What does RELATED() do?
+69. How would you calculate year-to-date sales?
+70. How would you calculate year-over-year sales growth?
+
+Section 5 — Visualization and Dashboard Design
+71. How do you decide which visual to use for a business problem?
+72. When would you use a bar chart instead of a line chart?
+73. When should you use a KPI card?
+74. Why can pie charts become ineffective?
+75. What makes an executive dashboard different from an operational dashboard?
+76. If the CEO asks for a dashboard, how would you determine which KPIs to include?
+77. How many KPIs would you ideally show on an executive dashboard, and what factors determine that number?
+78. What is conditional formatting, and how can it improve decision-making?
+79. What are bookmarks in Power BI?
+80. How can tooltips improve a dashboard without cluttering the page?
+Section 6 — Power BI Service, Security and Deployment
+81. What is Power BI Service?
+82. What is a workspace?
+83. How do you publish a report from Power BI Desktop?
+84. What is an on-premises data gateway?
+85. Why might a company need a gateway?
+86. What is scheduled refresh?
+87. What is Row-Level Security (RLS)?
+88. Give a business example where RLS would be required.
+89. How would you ensure regional managers see only their own region's data?
+90. What is the difference between static and dynamic RLS?
+
+Section 7 — Business Scenario Questions
+91. Sales increased by 15%, but profit declined by 8%. How would you use Power BI to investigate the reason?
+92. A CEO says, "Our dashboard has 50 KPIs. Tell me which five I should look at." How would you approach the request rather than simply selecting five metrics?
+93. Revenue suddenly dropped in the South region last month. Describe your investigation process in Power BI.
+94. A company's inventory has increased by 30%, but customer service levels have not improved. What data and KPIs would you analyze?
+95. Two reports show different values for "Total Revenue." One says ₹48 crore and another says ₹52 crore. How would you investigate and resolve the discrepancy?
+96. Your Power BI report takes 25 seconds to load. What would you investigate to improve performance?
+97. The HR director says employee attrition has increased from 12% to 18%. How would you design an analysis to understand why, while avoiding unsupported causal conclusions?
+98. A sales director asks: "Which customers should my team focus on next month?" How would you convert this business question into a Power BI solution?
+99. Management wants a single dashboard covering Sales, Finance, Operations, HR, and Supply Chain. How would you design the information hierarchy so that executives see strategic KPIs while functional managers can access deeper operational detail?
+100. Final interview case: You receive five million transaction records containing Customer, Product, Region, Salesperson, Order Date, Delivery Date, Quantity, Revenue, Cost, Discount and Returns. The CEO asks, "What is happening in the business, why is it happening, and what should we do?" Walk the interviewer through your complete approach—from business understanding and data preparation through modeling, DAX, visualization, insight generation and management recommendations.
+
+For experienced candidates, I would put the greatest weight on Questions 71–100. The candidate shouldn't merely say, "I would create a dashboard." A stronger answer follows a pattern such as:
+Business Question → Required Data → Data Quality → Model → KPI/Measure → Analysis → Insight → Business Impact → Recommended Action
+
